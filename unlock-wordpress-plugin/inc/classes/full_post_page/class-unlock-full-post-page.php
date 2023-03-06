@@ -7,7 +7,7 @@
  * @package unlock-protocol
  */
 
-namespace Unlock_Protocol\Inc\Classes\full;
+namespace Unlock_Protocol\Inc\Classes\full_post_page;
 
 use Unlock_Protocol\Inc\Traits\Singleton;
 use Unlock_Protocol\Inc\Unlock;

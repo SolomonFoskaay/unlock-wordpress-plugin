@@ -1,6 +1,6 @@
 <?php
 /**
- * Shortcodes class file.
+ * Shortcode Block class file.
  *
  * @since 3.0.0
  *
@@ -133,6 +133,4 @@ class Shortcode_Block {
 	
 		return $unlock_box_block->render_block( $block_attributes, $content );
 	}
-	
-		
 }
